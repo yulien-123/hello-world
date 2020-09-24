@@ -1,2 +1,5 @@
 # hello-world
-creando una repositorio
+
+ hola como estan
+ 
+ soy un esudiante motivado con la programacion
